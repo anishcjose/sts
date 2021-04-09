@@ -1,0 +1,23 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: de.jcup.egradle.eclipse.plugin.branding;singleton
+ :=true
+Bundle-Name: EGradle
+Bundle-Version: 2.7.0
+Bundle-ManifestVersion: 2
+Bundle-Vendor: Albert Tregnaghi
+
+Name: about.html
+SHA-256-Digest: 3Vn7wtl/VWXvrg7BnP2CoiV52kfrRkD19ZtHOlaEgec=
+
+Name: egradle-banner_128x128.png
+SHA-256-Digest: QGwwICuuoZxsxOm1Srt4jNvhsFRS1u2i+ksqMM1Gfjc=
+
+Name: egradle-banner_32x32.png
+SHA-256-Digest: U+nofenWrr7FPMcYEN31uO+fTMvmDC4NA9vshORAUAY=
+
+Name: about.ini
+SHA-256-Digest: QGjIqN8LOPn/ZSzFcu8Y3wMhlroF7JzxFk4UopCXgh8=
+
+Name: plugin.properties
+SHA-256-Digest: JR+Jp5FMLHaTDd0CQX96sXsSQT5EbAkNbLAPhVCHdFk=
+

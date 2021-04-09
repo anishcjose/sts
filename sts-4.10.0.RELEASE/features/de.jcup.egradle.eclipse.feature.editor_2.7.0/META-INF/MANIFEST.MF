@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Created-By: 1.8.0_265 (Private Build)
+
+Name: feature.xml
+SHA-256-Digest: 7PgikO9OXjED9jLJwNUtTkEmoRBJZEnLJlSt5Lc5nLg=
+

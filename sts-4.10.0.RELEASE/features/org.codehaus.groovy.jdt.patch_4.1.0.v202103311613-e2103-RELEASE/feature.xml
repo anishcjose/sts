@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<feature id="org.codehaus.groovy.jdt.patch"
+      label="%featureName"
+      version="4.1.0.v202103311613-e2103-RELEASE"
+      provider-name="%providerName">
+
+   <description url="%descriptionURL">
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <requires>
+      <import feature="org.eclipse.jdt" version="3.18.700.v20210303-1800" patch="true"/>
+   </requires>
+
+   <plugin
+         id="org.eclipse.jdt.core"
+         download-size="7117"
+         install-size="16698"
+         version="3.25.0.v202103311613-e2103-RELEASE"
+         unpack="false"
+   />
+
+</feature>

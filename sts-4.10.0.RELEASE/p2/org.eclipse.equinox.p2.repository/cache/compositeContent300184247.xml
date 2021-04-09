@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<repository name="{$dist.name} for e4.19" type="org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository" version="1.0.0">
+  <properties size="1">
+    <property name="p2.timestamp" value="1617214038005"/>
+  </properties>
+  <children size="1">
+    <child location="https://dist.springsource.org/release/GRECLIPSE/4.1.0/e4.19"/>
+  </children>
+</repository>
